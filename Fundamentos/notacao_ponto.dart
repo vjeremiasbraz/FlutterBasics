@@ -9,7 +9,7 @@ main() {
   String s3 = s2.toUpperCase();
   String s4 = s3.padRight(15, "!");
 
-//Concatenando diretamente todos os valores.
+//Concatenando diretamente todos os valores. 
   var s5 = "leonardo leitão".substring(0, 8).toUpperCase().padRight(15, '!');
 
   print(s4);
